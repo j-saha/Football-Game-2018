@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1533044517 source:d:\fifa  18 project\25-07-18 seen - copy\new folder\myigraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532912586 d:\fifa  18 project\25-07-18 seen - copy\new folder\myigraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533045275 source:d:\fifa  18 project\25-07-18 seen - copy\new folder\31-07-18 final version\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532912586 d:\fifa  18 project\25-07-18 seen - copy\new folder\31-07-18 final version\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533051538 source:g:\ofl9 try\31-07-18 final version-20180731t143419z-001\31-07-18 final version\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532999762 g:\ofl9 try\31-07-18 final version-20180731t143419z-001\31-07-18 final version\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533058077 source:g:\ofl9 try\final 1\31-07-18 final version\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532999762 g:\ofl9 try\final 1\31-07-18 final version\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533064176 source:g:\ofl9 try\final 2\31-07-18 final version\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532999762 g:\ofl9 try\final 2\31-07-18 final version\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533064388 source:g:\ofl9 try\final 3\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532999762 g:\ofl9 try\final 3\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533065910 source:g:\ofl9 try\final 4\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1532999762 g:\ofl9 try\final 4\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533068640 source:d:\final 4\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1533020520 d:\final 4\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533068640 source:d:\fifa  18 project\final 4\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1533020520 d:\fifa  18 project\final 4\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1533068640 source:f:\buet cse  1-1\fifa  18 project\final 4\myigraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<mmsystem.h>
+
+1533020520 f:\buet cse  1-1\fifa  18 project\final 4\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
